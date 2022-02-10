@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34790" started-at="2021-11-23T12:51:19Z" finished-at="2021-11-23T12:51:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34790" started-at="2021-11-23T12:51:19Z" finished-at="2021-11-23T12:51:53Z">
+      <class name="TestNG.TestCase1">
+        <test-method status="PASS" signature="OpenAppIn()[pri:0, instance:TestNG.TestCase1@66a3ffec]" name="OpenAppIn" is-config="true" duration-ms="31619" started-at="2021-11-23T18:21:19Z" finished-at="2021-11-23T18:21:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenAppIn -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TestNG.TestCase1@66a3ffec]" name="login" duration-ms="682" started-at="2021-11-23T18:21:50Z" finished-at="2021-11-23T18:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="ThrowsApp()[pri:0, instance:TestNG.TestCase1@66a3ffec]" name="ThrowsApp" is-config="true" duration-ms="2451" started-at="2021-11-23T18:21:51Z" finished-at="2021-11-23T18:21:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThrowsApp -->
+      </class> <!-- TestNG.TestCase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
